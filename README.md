@@ -1,6 +1,6 @@
-<p align="center">
-  <!-- استبدل الرابط اللي تحت برابط صورتك الشخصية -->
-  <img src="https://github.com/AHMED-KHATER-111.png" width="150" style="border-radius: 50%;" align="right">
+<p align="left">
+  <!-- صورتك الشخصية على الشمال مع إطار دائري بسيط -->
+  <img src="https://github.com/AHMED-KHATER-111.png" width="150" style="border-radius: 50%; float: left; margin-right: 20px;" align="left">
 </p>
 
 <h3 align="center">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<br>
+<br clear="left"> <!-- السطر ده مهم عشان الكلام اللي تحت ميتداخلش مع الصورة بشكل وحش -->
 
 - 🏢 **Current Focus:** Network Engineer & IT Infrastructure Enthusiast.
 - 👨‍💻 **Technical Skills:** Mastering Cisco Solutions (CCNA) and Microsoft System Administration (MCSA).
