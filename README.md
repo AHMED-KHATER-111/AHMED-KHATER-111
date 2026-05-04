@@ -9,6 +9,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/3o7TKSjPqcKInwCzC0/giphy.gif" alt="Server Matrix" width="300"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Engineer;Infrastructure+Specialist;CCNA+%26+MCSA+Certified&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
   </a>
