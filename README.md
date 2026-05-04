@@ -1,25 +1,20 @@
 <p align="center">
-   <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+  <!-- استبدل الرابط اللي تحت برابط صورتك الشخصية -->
+  <img src="https://github.com/AHMED-KHATER-111.png" width="150" style="border-radius: 50%;" align="right">
+</p>
 
 <h3 align="center">
   Welcome to Ahmed Khater's profile! 
-     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3> 
-
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
-  <!-- النص المتحرك باسمك ووظيفتك الجديدة -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Engineer;Infrastructure+Specialist&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=25">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Engineer;Infrastructure+Specialist;CCNA+%26+MCSA+Certified&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Network%20Engineer;Infrastructure%20Specialist;CCNA%20%26%20MCSA%20Certified;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
-  </a>
-</p> 
+
+<br>
 
 - 🏢 **Current Focus:** Network Engineer & IT Infrastructure Enthusiast.
 - 👨‍💻 **Technical Skills:** Mastering Cisco Solutions (CCNA) and Microsoft System Administration (MCSA).
