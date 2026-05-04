@@ -1,8 +1,10 @@
-<img width="250" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/3o7TKSjPqcKInwCzC0/giphy.gif">
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/3o7TKSjPqcKInwCzC0/giphy.gif">
+</p>
 
 <h3 align="center">
   Welcome to Ahmed Khater's profile! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://raw.githubusercontent.com/MartinVerre/martinverre/master/assets/wave.gif" width="28">
 </h3>
 
 <p align="center">
@@ -20,19 +22,24 @@
 
 ### Reach me via:
 
+<p align="left">
 <a href="https://www.facebook.com/tox.tox.777?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://linkedin.com/in/ahmedkhater88" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack (Networking & Systems)
-![Cisco](https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=cisco&logoColor=1BA0D7)&nbsp;
-![Windows Server](https://img.shields.io/badge/-Windows%20Server-05122A?style=flat&logo=microsoft&logoColor=0078D4)&nbsp;
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-05122A?style=flat&logo=microsoft)&nbsp;
-![Packet Tracer](https://img.shields.io/badge/-Packet%20Tracer-05122A?style=flat&logo=cisco)&nbsp;
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=167EBA)&nbsp;
-![VMware](https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware&logoColor=607078)&nbsp;
-![Python for Networking](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+<p align="left">
+<img src="https://img.shields.io/badge/-Cisco-05122A?style=flat&logo=cisco&logoColor=1BA0D7"/>&nbsp;
+<img src="https://img.shields.io/badge/-Windows%20Server-05122A?style=flat&logo=microsoft&logoColor=0078D4"/>&nbsp;
+<img src="https://img.shields.io/badge/-Active%20Directory-05122A?style=flat&logo=microsoft"/>&nbsp;
+<img src="https://img.shields.io/badge/-Packet%20Tracer-05122A?style=flat&logo=cisco"/>&nbsp;
+<img src="https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=167EBA"/>&nbsp;
+<img src="https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware&logoColor=607078"/>&nbsp;
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB"/>&nbsp;
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+</p>
 
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedkhater88&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AHMED-KHATER-111&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+</p>
