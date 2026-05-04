@@ -1,7 +1,10 @@
 <p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/3o7TKSjPqcKInwCzC0/giphy.gif" width="200" align="left" style="margin-right: 15px;">
   <!-- صورتك الشخصية على الشمال مع إطار دائري بسيط -->
   <img src="https://github.com/AHMED-KHATER-111.png" width="150" style="border-radius: 50%; float: left; margin-right: 20px;" align="left">
 </p>
+
+
 
 <h3 align="center">
   Welcome to Ahmed Khater's profile! 
