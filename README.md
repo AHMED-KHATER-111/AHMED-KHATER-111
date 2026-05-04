@@ -10,6 +10,12 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 
 <p align="center">
+  <!-- النص المتحرك باسمك ووظيفتك الجديدة -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Engineer;Infrastructure+Specialist&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=25">
+  </a>
+  <br>
+  <!-- الـ GIF بتاع السيرفرات -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/3o7TKSjPqcKInwCzC0/giphy.gif" alt="Server Matrix" width="300"/>
 </p>
 <p align="center">
