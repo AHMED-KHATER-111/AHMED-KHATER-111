@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/3o7TKSjPqcKInwCzC0/giphy.gif" alt="Server Matrix" width="300"/>
-
 </p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
