@@ -8,12 +8,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Network%20Engineer;Infrastructure%20Specialist;CCNA%20%26%20MCSA%20Certified;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Engineer;Always+learning+new+technologies&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
   </a>
-</p>
-
+</p> 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Network+Engineer;Infrastructure+Specialist;CCNA+%26+MCSA+Certified&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22">
