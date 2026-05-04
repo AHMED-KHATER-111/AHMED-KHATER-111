@@ -4,7 +4,7 @@
 
 <h3 align="center">
   Welcome to Ahmed Khater's profile! 
-  <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif "width="28">
+  <img src=https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif "width="10" "height = 10">
 </h3>
 
 <p align="center">
