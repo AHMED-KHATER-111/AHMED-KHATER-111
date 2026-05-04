@@ -1,6 +1,6 @@
 <p align="left">
   <!-- صورتك الشخصية بجانب الـ GIF -->
-  <img src="https://github.com/AHMED-KHATER-111.png" width="250" style="border-radius: 40px;" align="left">
+  <img src="https://github.com/AHMED-KHATER-111.png" width="250" style="border-radius: 20%;" align="left">
 </p>
 
 <h3 align="center">
