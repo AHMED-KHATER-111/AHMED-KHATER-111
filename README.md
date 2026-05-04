@@ -1,10 +1,15 @@
-<p align="left">
-  <!-- الـ GIF على الشمال -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/3o7TKSjPqcKInwCzC0/giphy.gif" width="200" align="left" style="margin-right: 15px;">
-  
-  <!-- صورتك الشخصية بجانب الـ GIF -->
-  <img src="https://github.com/AHMED-KHATER-111.png" width="125" style="border-radius: 15px;" align="left">
-</p>
+<table>
+  <tr>
+    <td valign="center">
+      <!-- الـ GIF على الشمال -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9iZCZjdD1n/3o7TKSjPqcKInwCzC0/giphy.gif" width="200"/>
+    </td>
+    <td valign="center">
+      <!-- صورتك الشخصية جنبه -->
+      <img src="https://github.com/AHMED-KHATER-111.png" width="125" style="border-radius: 15px;"/>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">
