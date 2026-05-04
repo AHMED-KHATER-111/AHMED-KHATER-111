@@ -46,7 +46,3 @@
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
 </p>
 
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AHMED-KHATER-111&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-</p>
